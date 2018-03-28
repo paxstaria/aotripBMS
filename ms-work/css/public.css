@@ -1,0 +1,16 @@
+.msWidth{width: 1318px;height: 768px;margin:0px auto;background-color: #eff3f8;}
+.msWidth .header{height: 50px;background-color: #ffd100;line-height: 50px;padding-right: 26px;padding-left:36px ;}
+.nm-left{float: left;}
+.nm-right{float:right;}
+.nm-hide{display: none;}
+.header img.logo{width: 30px;height: 28px;}
+.header span.ms-theam{font-weight: bold;font-size: 18px;}
+.header .user-info{}
+.header .user-info ul{}
+.header .user-info ul li{display: inline-block;*display: inline;height: 50px;line-height: 50px;}
+.header .user-info ul li a{border-right: solid 2px #3c3824;padding: 2px 20px;height: 28px;line-height: 28px;font-size: 14px;}
+.header .user-info ul li a img.message{width: 24px;height: 28px;}
+.header .user-info ul li a img.user{width: 26px;height: 28px;border-radius: 50%;}
+.header .user-info ul li a.user-msg{position: relative;}
+.header .user-info ul li a.user-msg i{display: inline-block;width: 14px;height: 14px;background-color: #fb4c67;color: #fff;border-radius:50%;position: absolute; top: -4px;right: 16px;line-height: 14px;text-align: center;font-style: normal;font-size: 12px;}
+.header .user-info ul li.login a{border-right: none;color: #fb4d66;}
